@@ -3,3 +3,7 @@
 1.时速,g值,平均速度显示
 2.位置信息，卫星信息查看
 3.安卓应用全屏和屏幕常亮保持
+![image](picture/1.jpg)
+![image](picture/2.jpg)
+![image](picture/3.jpg)
+![image](picture/4.jpg)
